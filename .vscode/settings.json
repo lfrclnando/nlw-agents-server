@@ -12,6 +12,7 @@
     "source.organizeImports.biome": "explicit"
   },
   "cSpell.words": [
+    "Containerização",
     "initdb",
     "pgvector"
   ]
