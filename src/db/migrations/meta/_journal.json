@@ -8,6 +8,13 @@
       "when": 1752176458113,
       "tag": "0000_organic_silver_samurai",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752344434567,
+      "tag": "0001_sudden_ikaris",
+      "breakpoints": true
     }
   ]
 }
