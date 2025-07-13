@@ -1,6 +1,6 @@
 # NLW Agents
 
-Projeto desenvolvido durante um evento da **Rocketseat**, focado na criação de uma API para gerenciamento de salas com agentes.
+Projeto desenvolvido durante um evento da **Rocketseat**, focado na criação de uma API para gerenciamento de salas com agentes de IA.
 
 ## 🚀 Tecnologias
 
@@ -30,16 +30,19 @@ src/
 
 1. **Clone o repositório**
 2. **Instale as dependências:**
+
    ```bash
    npm install
    ```
 
 3. **Configure as variáveis de ambiente:**
+
    ```bash
    cp .env.example .env
    ```
 
 4. **Inicie o banco de dados:**
+
    ```bash
    docker-compose up -d
    ```
@@ -52,6 +55,7 @@ src/
 ## 🏃‍♂️ Executando
 
 - **Desenvolvimento:**
+
   ```bash
   npm run dev
   ```
@@ -78,4 +82,10 @@ A API roda por padrão na porta `3333` e inclui:
 
 ---
 
-Desenvolvido com ❤️ durante o evento da Rocketseat# nlw-agents-server
+## 💻 Autores e Agradecimentos
+
+Reproduzido com muito carinho por 🦅 Fernando
+
+Desenvolvido com ❤️ durante o evento da Rocketseat #nlw-agents-server
+
+#nlw-agents
