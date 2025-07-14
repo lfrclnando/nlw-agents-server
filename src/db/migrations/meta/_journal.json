@@ -15,6 +15,13 @@
       "when": 1752344434567,
       "tag": "0001_sudden_ikaris",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752455537342,
+      "tag": "0002_faithful_gambit",
+      "breakpoints": true
     }
   ]
 }

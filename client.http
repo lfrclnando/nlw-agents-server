@@ -17,7 +17,6 @@ GET {{baseUrl}}/rooms
 # @name createRoom
 POST {{baseUrl}}/rooms
 Content-Type: application/json
-
 {
   "name": "Sala de teste",
   "description": "Essa é uma sala de teste"
@@ -31,7 +30,7 @@ Content-Type: application/json
 
 # Get room questions
 # @name getRoomQuestions
-GET {{baseUrl}}/rooms/{{roomId}}/questions
+GET {{baseUrl}}/rooms/25f28e0c-1558-4405-9f87-d571c576c697/questions
 
 ###
 
@@ -39,9 +38,6 @@ GET {{baseUrl}}/rooms/{{roomId}}/questions
 # @name createQuestion
 POST {{baseUrl}}/rooms/{{roomId}}/questions
 Content-Type: application/json
-
 {
-  "question": "Qual o conceito de culinária no Brasil?"
+  "question": "O que é React?"
 }
-
-###
